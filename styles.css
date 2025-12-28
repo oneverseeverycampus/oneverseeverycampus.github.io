@@ -28,6 +28,7 @@ section {
     max-width: 680px;
     padding: 64px 24px;
     text-align: center;
+    margin: 0 auto;
 }
 
 h1 {
