@@ -28,6 +28,12 @@ section {
     margin: 0 auto;
 }
 
+.border-section {
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
 h1 {
     font-family: "Playfair Display", serif;
     font-size: clamp(2.2rem, 5vw, 3rem);
@@ -69,6 +75,8 @@ img {
 
 footer {
     margin-top: 25px;
+}
+.footer-name {
     font-size: 0.8rem;
     color: var(--text-muted);
 }
