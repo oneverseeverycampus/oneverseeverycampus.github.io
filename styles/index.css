@@ -3,3 +3,8 @@
     color: var(--text-muted);
     margin-bottom: 56px;
 }
+
+.cta-get-involved {
+    display: flex;
+    gap: 15px;
+}
